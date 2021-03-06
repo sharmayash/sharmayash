@@ -10,12 +10,9 @@
 ![](https://img.shields.io/badge/AWS_EC2-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/sharmayash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmayash&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/sharmayash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmayash&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmayash&layout=compact&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmayash&show_icons=true&line_height=27&count_private=true&title_color=ffffff&include_all_commits=true&hide=contribs&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
 
 <!--
 **sharmayash/sharmayash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
