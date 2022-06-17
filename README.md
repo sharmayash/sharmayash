@@ -1,5 +1,3 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
